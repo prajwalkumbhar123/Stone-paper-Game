@@ -1,2 +1,18 @@
-# Srone-paper-Game
-Simple Python Rock-Paper-Scissors game that takes two player inputs, displays their choices, and announces the winner or a draw.
+# Rock-Paper-Scissors Game (Python)
+
+A simple console-based **Rock-Paper-Scissors** game implemented in Python. Players can input their choices, and the game displays the winner or a draw.
+
+## Features
+
+- Choose between **Stone**, **Paper**, and **Scissors**.
+- Displays both players' choices.
+- Announces the winner or a draw.
+- Simple and easy-to-use console interface.
+
+## How to Play
+
+1. Clone the repository or download the file.
+2. Run the Python script:
+
+```bash
+python rps_game.py
