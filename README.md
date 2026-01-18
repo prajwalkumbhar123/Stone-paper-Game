@@ -16,3 +16,9 @@ A simple console-based **Rock-Paper-Scissors** game implemented in Python. Playe
 
 ```bash
 python rps_game.py
+
+What is Your choice : 
+1. Stone
+2. Paper
+3. Scissors
+
