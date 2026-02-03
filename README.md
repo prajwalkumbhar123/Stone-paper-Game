@@ -4,7 +4,7 @@ A simple console-based **Rock-Paper-Scissors** game implemented in Python. Playe
 
 ## Features
 
-- Choose between **Stone**, **Paper**, and **Scissors**.
+- Choose between Stone, Paper, and Scissors.
 - Displays both players' choices.
 - Announces the winner or a draw.
 - Simple and easy-to-use console interface.
